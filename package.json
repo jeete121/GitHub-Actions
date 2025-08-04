@@ -1,0 +1,12 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jeete121/GitHub-Actions.git",
+  "scripts": {
+    "build": "echo 'built'",
+    "test": "node ./tests/dummy.js"
+  },
+  "author": "Jitendra Kumar",
+  "license": "MIT"
+}
